@@ -136,13 +136,13 @@ Distributed under the GPL3 License. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/bohdan-s/SunGather.svg?style=for-the-badge
-[contributors-url]: https://github.com/bohdan-s/SunGather/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/bohdan-s/SunGather.svg?style=for-the-badge
-[forks-url]: https://github.com/bohdan-s/SunGather/network/members
-[stars-shield]: https://img.shields.io/github/stars/bohdan-s/SunGather.svg?style=for-the-badge
-[stars-url]: https://github.com/bohdan-s/SunGather/stargazers
-[issues-shield]: https://img.shields.io/github/issues/bohdan-s/SunGather.svg?style=for-the-badge
-[issues-url]: https://github.com/bohdan-s/SunGather/issues
-[license-shield]: https://img.shields.io/github/license/bohdan-s/SunGather.svg?style=for-the-badge
-[license-url]: https://github.com/bohdan-s/SunGather/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/bohdan-s/SunGatherCloud.svg?style=for-the-badge
+[contributors-url]: https://github.com/bohdan-s/SunGatherCloud/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/bohdan-s/SunGatherCloud.svg?style=for-the-badge
+[forks-url]: https://github.com/bohdan-s/SunGatherCloud/network/members
+[stars-shield]: https://img.shields.io/github/stars/bohdan-s/SunGatherCloud.svg?style=for-the-badge
+[stars-url]: https://github.com/bohdan-s/SunGatherCloud/stargazers
+[issues-shield]: https://img.shields.io/github/issues/bohdan-s/SunGatherCloud.svg?style=for-the-badge
+[issues-url]: https://github.com/bohdan-s/SunGatherCloud/issues
+[license-shield]: https://img.shields.io/github/license/bohdan-s/SunGatherCloud.svg?style=for-the-badge
+[license-url]: https://github.com/bohdan-s/SunGatherCloud/blob/main/LICENSE.txt
