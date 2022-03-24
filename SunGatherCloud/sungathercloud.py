@@ -105,13 +105,13 @@ class iSolarCloud():
         # get key length
         blocksize = common.byte_size(pkey.n)
 
-        # split into chunks for decryption
-        chunked = self.split(ciphertext, blocksize)
-
         # Add pading to message
         message = message + '=' * (4 - len(message) % 4) if len(message) % 4 != 0 else message
         # Decode url safe base64 the message
         ciphertext = base64.urlsafe_b64decode(message)
+
+        # split into chunks for decryption
+        chunked = self.split(ciphertext, blocksize)
 
         output = ""
 
