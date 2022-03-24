@@ -1,0 +1,114 @@
+version:  0.0.1
+ids:
+  - name: "Grid" 
+    id: 83128
+    datatype: "U32"
+    accuracy: 0.1
+    unit: "W"
+  - name: "Electricity"
+    id: 83106
+    datatype: "U32"
+    accuracy: 0.1
+    unit: "W"
+  - name: "id-83532"
+    id: 83532
+    datatype: "U16"
+    accuracy: 0.1
+    unit: "W"
+  - name: "Solar Generation"
+    id: 83033
+    datatype: "U32"
+    accuracy: 0.1
+    unit: "W"
+  - name: "Solar Generation"
+    id: 83076
+    datatype: "U32"
+    accuracy: 0.1
+    unit: "W"
+  - name: "id-83252"
+    id: 83252
+    datatype: "U16"
+    accuracy: 0.1
+    unit: "W"
+  - name: "Solar Generation"
+    id: 83002
+    datatype: "U32"
+    accuracy: 0.1
+    unit: "W"
+  - name: "Grid"
+    id: 83193
+    datatype: "U32"
+    accuracy: 0.1
+    unit: "W"
+  - name: "Electricity"
+    id: 83185
+    datatype: "U16"
+    accuracy: 0.1
+    unit: "W"
+  - name: "Solar Generation"
+    id: 83173
+    datatype: "U16"
+    accuracy: 0.1
+    unit: "W"
+
+  - name: "Total Active Power"
+    id: 24
+    datatype: "U16"
+    #accuracy: 0.1
+    unit: "W"
+  - name: "Total DC Power"
+    id: 14
+    datatype: "U16"
+    #accuracy: 0.1
+    unit: "W"
+  - name: "Phase A Voltage"
+    id: 18
+    datatype: "U16"
+    #accuracy: 0.1
+    unit: "W"
+  - name: "Phase B Voltage"
+    id: 19
+    datatype: "U16"
+    #accuracy: 0.1
+    unit: "W"
+  - name: "Phase C Voltage"
+    id: 20
+    datatype: "U16"
+    #accuracy: 0.1
+    unit: "W"
+  - name: "Phase A Current"
+    id: 21
+    datatype: "U16"
+    #accuracy: 0.1
+    unit: "W"
+  - name: "Phase B Current"
+    id: 22
+    datatype: "U16"
+    #accuracy: 0.1
+    unit: "W"
+  - name: "Phase C Current"
+    id: 23
+    datatype: "U16"
+    #accuracy: 0.1
+    unit: "W"
+
+  - name: "Meter Active Power"
+    id: 8018
+    datatype: "U16"
+    #accuracy: 0.1
+    unit: "W"
+  - name: "Meter Phase A Active Power"
+    id: 8076
+    datatype: "U16"
+    #accuracy: 0.1
+    unit: "W"
+  - name: "Meter Phase B Active Power"
+    id: 8077
+    datatype: "U16"
+    #accuracy: 0.1
+    unit: "W"
+  - name: "Meter Phase C Active Power"
+    id: 8078
+    datatype: "U16"
+    #accuracy: 0.1
+    unit: "W"
