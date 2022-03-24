@@ -1,5 +1,7 @@
 import os
+import random
 import re
+import secrets
 import rsa
 import sys
 import yaml
@@ -32,7 +34,12 @@ class iSolarCloud():
             logging.info(f"MQTT: Host config is required")
             return False
 
-        self.client = client.Client(client_id=config['clientid'],transport=config['transport'])
+        if config.get('clientid'):
+            clientid = config.get('clientid')
+        else:
+            clientid = "mqttjs_" + secrets.token_hex(4)
+
+        self.client = client.Client(client_id=clientid,transport=config['transport'])
         self.client.ws_set_options(path=config['basepath'], headers=None)
         self.client.username_pw_set(config['username'], config['password'])
         self.client.tls_set()
