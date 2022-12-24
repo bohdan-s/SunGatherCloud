@@ -3,3 +3,4 @@ requests>=2.26.0
 paho-mqtt>=1.5.1
 influxdb-client>=1.24.0
 rsa>=4.8
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
